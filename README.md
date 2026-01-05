@@ -67,3 +67,7 @@ git push -u origin main
 
 ## 📂 Project Structure
 
+Author
+
+Developed by Irfan Pasha
+If you like this project, ⭐ star the repo!
